@@ -1,0 +1,15 @@
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\bin\Debug\net5.0\TopLevelStatementsExample.exe
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\bin\Debug\net5.0\TopLevelStatementsExample.deps.json
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\bin\Debug\net5.0\TopLevelStatementsExample.runtimeconfig.json
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\bin\Debug\net5.0\TopLevelStatementsExample.runtimeconfig.dev.json
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\bin\Debug\net5.0\TopLevelStatementsExample.dll
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\bin\Debug\net5.0\ref\TopLevelStatementsExample.dll
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\bin\Debug\net5.0\TopLevelStatementsExample.pdb
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\obj\Debug\net5.0\TopLevelStatementsExample.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\obj\Debug\net5.0\TopLevelStatementsExample.AssemblyInfoInputs.cache
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\obj\Debug\net5.0\TopLevelStatementsExample.AssemblyInfo.cs
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\obj\Debug\net5.0\TopLevelStatementsExample.csproj.CoreCompileInputs.cache
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\obj\Debug\net5.0\TopLevelStatementsExample.dll
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\obj\Debug\net5.0\ref\TopLevelStatementsExample.dll
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\obj\Debug\net5.0\TopLevelStatementsExample.pdb
+C:\Users\andre\Source\repos\CSharpNewFeatures\TopLevelStatementsExample\obj\Debug\net5.0\TopLevelStatementsExample.genruntimeconfig.cache
